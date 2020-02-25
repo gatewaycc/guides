@@ -17,5 +17,5 @@ Tutorials are categorized into the following categories:
 * Connectivity
 * Software
 * Instructor Stations
-* Conference Rooms
+* Conference
 * Presenter Equipment
