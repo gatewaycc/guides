@@ -12,10 +12,11 @@ The current platform utilized for sharing and accessing tutorials is the [Gecko 
 
 Tutorials are categorized into the following categories:
 * File Management Options
-* Web Applications
+* Software & Web Applications
 * Accounts
 * Connectivity
-* Software
 * Instructor Stations
+* Interactive Classrooms
 * Conference
 * Presenter Equipment
+* Other
